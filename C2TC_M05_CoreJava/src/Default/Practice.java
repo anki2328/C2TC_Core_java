@@ -1,13 +1,12 @@
+package Default;
 
-public class Increment {
+public class Practice {
 
 	public static void main(String[] args) {
-		for(int i=0; i<5; i++)
+		for(int i= 0; i<5; i=5)
 		{
 			System.out.println("Hello");
-			i++;
 		}
-
 	}
 
 }
